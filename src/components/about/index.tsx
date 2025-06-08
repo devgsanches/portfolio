@@ -113,9 +113,7 @@ export default function About() {
         ))}
       </div>
 
-      <div className="mt-14 mb-10">
-        <Image src={arrow} alt="Arrow icon" className="cursor-pointer" />
-      </div>
+      <Image src={arrow} alt="Arrow icon" className="pt-10 cursor-pointer" />
     </div>
   )
 }

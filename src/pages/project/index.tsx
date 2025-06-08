@@ -28,7 +28,7 @@ export default function ProjectPage() {
   return (
     <>
       <section className="pt-10 flex flex-col items-center bg-[#16181D] h-full">
-        <span className="text-[#8012f9] font-[Inconsolata] mt-6">
+        <span className="text-[#1E90FF] font-[Inconsolata] mt-6">
           Meu trabalho
         </span>
         <h2 className="text-[#E2E4E9] font-[Asap] font-bold mb-6">

@@ -33,7 +33,7 @@ export default function ContactPage() {
       className="h-full bg-cover bg-no-repeat flex flex-col items-center pb-10"
       style={{ backgroundImage: `url(${secondBg.src})` }}
     >
-      <span className="text-[#8012f9] font-[Inconsolata] mt-12">Contato </span>
+      <span className="text-[#1E90FF] font-[Inconsolata] mt-12">Contato </span>
       <h2 className="text-[#E2E4E9] font-[Asap] font-bold">
         Gostou do meu trabalho?
       </h2>

@@ -28,7 +28,7 @@ export default function ServicePage() {
   return (
     <>
       <section className="flex flex-col items-center bg-[#0D0E11] h-full pb-8">
-        <span className="text-[#8012f9] font-[Inconsolata] mt-12">
+        <span className="text-[#1E90FF] font-[Inconsolata] mt-12">
           Meus serviços
         </span>
         <h2 className="text-[#E2E4E9] font-[Asap] font-bold">

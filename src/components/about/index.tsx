@@ -113,7 +113,7 @@ export default function About() {
         ))}
       </div>
 
-      <Image src={arrow} alt="Arrow icon" className="pt-10 cursor-pointer" />
+      <Image src={arrow} alt="Arrow icon" className="py-10 cursor-pointer" />
     </div>
   )
 }

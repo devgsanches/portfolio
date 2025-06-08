@@ -27,7 +27,7 @@ export default function ProjectPage() {
   ])
   return (
     <>
-      <section className="pt-4 flex flex-col items-center bg-[#16181D] h-full">
+      <section className="pt-8 flex flex-col items-center bg-[#16181D] h-full">
         <span className="text-[#8012f9] font-[Inconsolata] mt-6">
           Meu trabalho
         </span>
